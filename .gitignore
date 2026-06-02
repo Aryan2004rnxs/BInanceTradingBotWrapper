@@ -1,0 +1,18 @@
+# Environment variables (contains private credentials)
+.env
+
+# Log files
+*.log
+trading_bot.log
+
+# Virtual environment
+venv/
+ENV/
+env/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
